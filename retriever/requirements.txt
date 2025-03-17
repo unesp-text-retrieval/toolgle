@@ -1,0 +1,5 @@
+beir==2.0.0
+numpy<2
+httpx==0.28.1
+fastapi==0.115.11
+uvicorn==0.15.0
