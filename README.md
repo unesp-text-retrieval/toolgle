@@ -9,3 +9,6 @@ To use Toolgle, you can run Docker Compose and access the application on port 30
 ```sh
 docker-compose up
 ```
+
+Ugly but quick preview! ⬇️   
+![toolgle480](https://github.com/user-attachments/assets/4ddb8720-1a60-4c70-a1ce-2854f1582e6b)
